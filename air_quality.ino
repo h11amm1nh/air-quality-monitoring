@@ -2,6 +2,7 @@
 #include <Wire.h> //oled
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
+// goddman mit
 
 #define DHT_OUT_PIN 23 //dht sensor
 #define SCREEN_WIDTH 128 //oled
